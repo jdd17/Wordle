@@ -59,8 +59,8 @@ public class Wordle
     private static int numLetters4 = 0;
     private static int numLetters5 = 0;
     private static int numLetters6 = 0;
-    private static final String filePathWords = "/Users/jed/Desktop/Code Tests/Java Testing/Wordle/Wordle/wordList.txt"; // file paths
-    private static final String filePathGuesses = "/Users/jed/Desktop/Code Tests/Java Testing/Wordle/Wordle/guessList.txt";
+    private static final String filePathWords = "/YOUR_FILE_PATH_HERE/wordList.txt"; // file paths
+    private static final String filePathGuesses = "/YOUR_FILE_PATH_HERE/guessList.txt";
     private static String wordToCheck; // Additional strings
     private static String correctWord;
     private static Random rand;
